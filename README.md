@@ -1,6 +1,6 @@
 # <h1 align = "center">🧑‍🎓Single Cycle Processor🧑‍🎓
 
-<h3 align = "center">A couple simple projects I worked on using python
+<h3 align = "center">Full Lab Report Can Be Found In Repository Files
 
 # Components
 - [FlipFlop](lab5_koganti1_Anoop_Koganti/FlipFlop.v) - a D FlipFlop taking in 8-bit input and provided 8-bit output.

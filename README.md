@@ -1,2 +1,1 @@
-# Verilog-Single-Cycle-Processor
-Designed through my EECS 31L Class curriculum
+# <h1 align = "center">🧑‍🎓Single Cycle Processor🧑‍🎓

@@ -21,7 +21,7 @@
 
 - [DataPath](lab5_koganti1_Anoop_Koganti/Datapath.v) - Executes instructions and operations in a single clock Cycle
 
-- [Controller](lab5_koganti1_Anoop_Koganti/Controller.v) - takes an 7-bit input that decides specific outputs that are then sent to the datapath and ALUController
+- [Controller](lab5_koganti1_Anoop_Koganti/Controller.v) - takes a 7-bit input that decides specific outputs that are then sent to the datapath and ALUController
 
 # Processor 
 
